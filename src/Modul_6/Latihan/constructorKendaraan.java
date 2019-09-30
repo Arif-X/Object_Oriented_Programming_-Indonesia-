@@ -7,7 +7,7 @@ package Modul_6.Latihan;
 
 /**
  *
- * @author Lenovo
+ * @author Arif-X
  */
 public class constructorKendaraan {
 
